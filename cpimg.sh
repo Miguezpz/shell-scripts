@@ -7,8 +7,8 @@ echo "Inicio de busqueda y compresión de imagenes..." &&
 
 #Creamos directorio para almacenar la compresion de archivos con la extension .tar.gz
 echo "Creando directorio para guardar imagenes..." &&
-mkdir -p mis_imagenes &&
-echo "Directorio mis_imagenes creado" &&
+mkdir -p my-images &&
+echo "Directorio my-images creado" &&
 
 
 #Iniciamos busqueda de imagenes y copiamos a la ruta actual
