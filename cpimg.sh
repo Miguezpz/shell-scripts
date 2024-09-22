@@ -2,10 +2,10 @@
 
 
 #Mensaje de inicio
-echo "Inicio de busqueda y compresión de imagenes..." &&
+echo "Inicio de busqueda y copia de imagenes..." &&
 
 
-#Creamos directorio para almacenar la compresion de archivos con la extension .tar.gz
+#Creamos directorio para guardar imagenes
 echo "Creando directorio para guardar imagenes..." &&
 mkdir -p my-images &&
 echo "Directorio my-images creado" &&

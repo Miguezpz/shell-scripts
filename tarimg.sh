@@ -18,7 +18,7 @@ echo "Imagenes guardadas en directorio"
 #Creamos tar.gz
 echo "Comprimiendo imagenes" &&
 tar -czvf my-images.tar.gz ./my-images &&
-
+echo "Se comprimió el directorio exitosamente" &&
 
 #Eliminamos carpeta
 echo "Removiendo directorio con imagenes" &&
